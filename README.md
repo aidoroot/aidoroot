@@ -7,7 +7,8 @@
 
 
 ```
-Normally I'm analyzing data and finding the cause of a problem or interpreting it and looking for an answer. Sometimes I also develop a service or platform that provides a specific function.
+- Normally I'm analyzing data and finding the cause of a problem or interpreting it and looking for an answer.
+- Sometimes I also develop a service or platform that provides a specific function.
 ```
 
 
