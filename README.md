@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning ML/DL & ETC
 
 
-```
-- Normally I'm analyzing data and finding the cause of a problem or interpreting it and looking for an answer.
-- Sometimes I also develop a service or platform that provides a specific function.
-```
+### 2. Daily life
+- Normally I'm analyzing data and finding the cause of a problem or interpreting it and looking for an answer. Sometimes I also develop a service or platform that provides a specific function.
 
+### 3. Interests
+- ML/DL, Data Analysis, Data Engineering, Data Science.
 
-### 2. Contact
+### 4. Contact
 - aidoroot@gmail.com
